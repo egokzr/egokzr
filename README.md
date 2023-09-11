@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a second year student at BSUIR 
+- 🔭 I'm a second year student at BSUIR 
+- 🌱 I'm currenlty learing c#, swift and java for educational purposes
+- 📫 How to reach me: t.me/egokazik
 
 <!--
 **egokzr/egokzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
