@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm a second year student at BSUIR 
-- 🌱 I'm currenlty learing c#, swift and java for educational purposes
+- 🌱 I'm currenlty learing C#, swift and java for educational purposes
 - 📫 How to reach me: [Telegram](t.me/egokazik), [Email](egorkazarin05@icloud.com)
 
 <!--
